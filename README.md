@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Full-stack Web Developer at Masai School</h3>
 <hr>
 <h3>About me...</h3>
-<p><b>Hi, I'm Sunil! I am a full stack web developer and have completed my training in full stack web development and DSA</b> from  <a href="https://www.masaischool.com/">Masai School</a>. My tech stack includes HTML, CSS, JavaScript, React, Node.js, and MongoDB. I love building responsive and user-friendly web applications. Check out my GitHub profile for my projects, and feel free to get in touch with me for any project collaborations or ideas!</p>
+<p><b>Hi, I'm Sunil Chaudhary! I am a full stack web developer and have completed my training in full stack web development and DSA</b> from  <a href="https://www.masaischool.com/">Masai School</a>. My tech stack includes HTML, CSS, JavaScript, React, Node.js, and MongoDB. I love building responsive and user-friendly web applications. Check out my GitHub profile for my projects, and feel free to get in touch with me for any project collaborations or ideas!</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunil3520&label=Profile%20views&color=0e75b6&style=flat" alt="sunil3520" /> </p>
 
