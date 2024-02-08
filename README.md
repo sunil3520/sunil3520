@@ -10,13 +10,13 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif" width="450" height="300"/>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MERN** and **AWS**
 
 - 👯 I’m looking to collaborate on **React Project**
 
-- 🤝 Group Project [Purpulle.com clone](https://github.com/Ashmit-1131/deranged-bikes-7325)
+- 🤝 Group Project [Purpulle.com clone](https://github.com/ravib31/legit-substance-7075)
 
-- 💬 Ask me about **HTML / CSS / JS / REACT / MongoDB / REDUX / TYPESCRIPT / NEXT JS**
+- 💬 Ask me about **HTML / CSS / JS / REACT / MongoDB / REDUX / TYPESCRIPT / NEXT JS / Tailwind / Chakra-ui / ExpressJs / NodeJs**
 
 - 📫 How to reach me **sunilchaudhary7789@gmail.com**
 
@@ -27,9 +27,9 @@
 
 <h2 align="left">Connect with me 👋</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/sunil-chaudhary-754a931b6/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunil3520" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sunil3520/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunil3520" height="30" width="40" /></a>
 
-<a href="https://leetcode.com/sunil7789/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sunil3520" height="30" width="40" /></a>
+<a href="https://leetcode.com/sunil7789/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sunil3520" height="30" width="40" /></a>
 
 </p>
 
