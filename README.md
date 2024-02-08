@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **React Project**
 
-- 🤝 Group Project [Purpulle.com clone](https://github.com/ravib31/legit-substance-7075)
+- 🤝 Group Project [bewakoof.com clone](https://github.com/ravib31/legit-substance-7075)
 
 - 💬 Ask me about **HTML / CSS / JS / REACT / MongoDB / REDUX / TYPESCRIPT / NEXT JS / Tailwind / Chakra-ui / ExpressJs / NodeJs**
 
