@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif" width="450" height="300"/>
 
-- 🌱 I’m currently learning **SQL** and **AWS**
+- 🌱 I’m currently learning **SQL** **AWS** and **MERN**
 
 - 👯 I’m looking to collaborate on **React Project**
 
