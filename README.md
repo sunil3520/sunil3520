@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Full-stack Web Developer at Masai School</h3>
 <hr>
 <h3>About me...</h3>
-<p>Hello, Sunil Chaudhary here, a seasoned full-stack web developer with comprehensive training in full-stack web development and Data Structures and Algorithms (DSA) from Masai School. Proficient in a tech stack that includes HTML, CSS, JavaScript, React, Node.js, and MongoDB. Focused on crafting responsive and user-friendly web applications, with a six-month internship at Nolan Edutech Private Limited. Explore my GitHub profile for projects and feel free to reach out for potential collaborations or to discuss innovative ideas.</p>
+<p>Hello,<b> Sunil Chaudhary </b> here, a seasoned full-stack web developer with comprehensive training in full-stack web development and Data Structures and Algorithms (DSA) from <a href="https://masaischool.com"> Masai School</a>. Proficient in a tech stack that includes HTML, CSS, JavaScript, React, NextJs, Tailwind, Node.js, and MongoDB. Focused on crafting responsive and user-friendly web applications, with a six-month internship at Nolan Edutech Private Limited. Explore my GitHub profile for projects and feel free to reach out for potential collaborations or to discuss innovative ideas.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunil3520&label=Profile%20views&color=0e75b6&style=flat" alt="sunil3520" /> </p>
 
