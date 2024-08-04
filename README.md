@@ -10,8 +10,8 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif" width="450" height="300"/>
 
-- 🌱 I’m currently learning **SQL** **AWS** and **MERN**
-
+- 🌱 I’m a full stack **MERN** developer.
+- 🌱 I’m currently learning **SQL** and **AWS**
 - 👯 I’m looking to collaborate on **React Project**
 
 - 🤝 Group Project [bewakoof.com clone](https://github.com/ravib31/legit-substance-7075)
